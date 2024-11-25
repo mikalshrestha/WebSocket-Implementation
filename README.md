@@ -1,1 +1,1 @@
-End to End WebSocket Implementation example using SprinBoot and Android
+End to End SSE Implementation example using SpringBoot and Android
